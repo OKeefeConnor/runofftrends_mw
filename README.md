@@ -1,6 +1,6 @@
-# Code repository for "Trends in Seasonal Streamflow and Daily... " 2025
+# Code repository for "Trends in Seasonal Streamflow and Daily Runoff... " 2025
 
-This repository is associated with the manuscript "Trends in Seasonal Streamflow and Daily Runoff for Near-natural Stream Gauges in the Midwestern United States"  by O'Keefe, Connor; Winston, Ryan; Stagge, James H. subitted to Water Resources Research.
+This repository is associated with the manuscript "Trends in Seasonal Streamflow and Daily Runoff for Near-natural Stream Gauges in the Midwestern United States"  by O'Keefe, Connor; Winston, Ryan; Stagge, James H. submitted to Water Resources Research.
 
 To cite this repository: 
 
